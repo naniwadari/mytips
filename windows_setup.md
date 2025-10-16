@@ -10,3 +10,6 @@
 
 ## CapsLockを許さない
 - ctrlに変更: https://zenn.dev/sasasin/articles/773d2921cc70b4
+
+## Flow Launcher
+- 導入: https://it.hideharublog.com/flow-launcher-how-to-use/
