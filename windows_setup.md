@@ -13,3 +13,7 @@
 
 ## Flow Launcher
 - 導入: https://it.hideharublog.com/flow-launcher-how-to-use/
+
+## ターミナル設定
+- 公式: https://learn.microsoft.com/ja-jp/windows/terminal/customize-settings/startup
+- 紹介記事: https://zenn.dev/sickleaf/articles/676e4b9039eca2
